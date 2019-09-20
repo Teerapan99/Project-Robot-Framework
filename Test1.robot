@@ -36,7 +36,7 @@ Test
 	 Mouse Down                        //*[@id="root"]/div/div[1]/div[3]/div[4]
 	 Click Element                     id=btnNext
 	 Sleep   3s
-Benefication
+#Benefication
    @{ITEMS}    Create List    บิดา    มารดา   บุตร    พี่    น้อง
    :FOR    ${INDEX1}    ${ELIMENT}    IN ENUMERATE   @{ITEMS}
    \      Click Element              id=RelationShipId0
