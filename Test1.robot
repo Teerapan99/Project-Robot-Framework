@@ -68,4 +68,5 @@ Test
 	 Click Element                     //*[@id="root"]/div/div[1]/div[3]/div/div[5]/div[2]/div[2]/div/div/div/div[1]/label
 	 Click Element                     id=btnNext
 	 Sleep   10s
+	 Log        Success
 	 Close Browser
