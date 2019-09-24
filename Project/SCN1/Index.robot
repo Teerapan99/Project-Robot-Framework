@@ -2,5 +2,10 @@
 Resource    Setting.robot
 
 *** Test Cases ***
-open UAT
+SCN1
   open
+  Product Landing Page
+  Premium cal Page
+  Payment Mode Page
+  Personal Info
+  #Close Browser
